@@ -1,0 +1,112 @@
+.main_front .list_div{
+    margin-top: 100px;
+    margin-left: 200px;
+    position: absolute;
+}
+.main_front .list_div ol li{
+    display: inline-block;
+    margin-left: 40px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.main_front .list_div ol li span{
+    color: #868686;
+}
+.main_front .list_div ol li:hover{
+    color: purple;
+    border-bottom: 5px solid purple;
+    border-radius: 2px;
+}
+.main_front ol li span{
+    padding-right: 5px;
+
+}
+.main_front .help_div{
+    margin-right: 10px;
+    width: 200px;
+    height: 50px;
+    display: inline-flex;
+    list-style: none;
+}
+.main_front .help_div ol li{
+    list-style: none;
+    display: inline-flex;
+    color: grey;
+    padding-right: 10px;
+}
+.table_div{
+    margin-left: 340px;
+    margin-top: 180px;
+    position: absolute;
+}
+.table_div  button{
+    width: 170px;
+    height: 35px;
+    background-color: purple;
+    border: 1px solid purple;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
+}
+.table_div button .pull-left{
+    padding-left: 10px;
+    padding-right: 20px;
+}
+
+.table_div ol #l1,#l2{
+    margin-left: 180px;
+    margin-top: -30px;
+    list-style: none;
+    width: 0px;
+    display: flex;    
+}
+.table_div ol #l2{
+    margin-left: 230px;
+
+}
+.table_div table{
+    width: 950px;
+    padding-right: 100px;
+}
+.table_div table thead{
+    margin-left: 50px;
+    text-align: center;
+}
+
+.table_div table button{
+    margin-right: 20px;
+    border-radius: 20px;
+    background-color: lightgreen;
+    color: green;
+    border-color: green;
+    border: 1px solid;
+    width: 180px;
+}
+.table_div table .btn-danger{
+    background-color: rgb(243, 125, 125);
+    color: rgb(236, 2, 2);
+    border: 1px solid rgb(236, 2, 2);
+}
+.table_div table span{
+    padding-right: 15px;
+}
+.table_div table thead{
+    background-color: whitesmoke;
+    font-weight: 500;
+    width: 950px;
+}
+.table_div dl li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 40px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.table_div dl li:hover{
+    color: purple;
+    border-bottom: 5px solid purple;
+    border-radius: 2px;
+
+}

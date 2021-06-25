@@ -1,0 +1,11 @@
+.table .sub_table_div  table{
+    width: 700px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.table .sub_table_div .purple{
+    color: purple;
+}
+.table_div table{
+    width: 1050px;
+}

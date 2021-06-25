@@ -1,0 +1,18 @@
+.table_div .same_div{
+    padding-top: -20px;
+    padding-bottom: 40px;
+}
+.table_div .same_div span{
+    color: purple;
+    font-weight: 500;
+    padding-left: 10px;
+    font-size: 20px;
+}
+.table_div .same_div #edit{
+    margin-left: 240px;
+    margin-top: -30px;
+    list-style: none;
+    width: 0px;
+    display: flex;
+    color:black;
+}

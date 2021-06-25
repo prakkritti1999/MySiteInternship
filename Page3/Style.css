@@ -1,0 +1,14 @@
+.table_div .table tr td .no{
+    background-color: whitesmoke;
+    color: grey;
+    border: 1px solid grey;
+}
+.table{
+    margin-top: 30px;
+}
+.table tr td .s2{
+    color: green;
+}
+.table tr td .s3{
+    color: grey;
+}
